@@ -1,9 +1,14 @@
-  =>  Template Name    : Insure - Insurance HTML Template
+Welcome to our website!
 
-  =>  Template Link    : https://htmlcodex.com/insurance-html-template
+This website was created to provide you with information about our products and services. Here you will find everything you need to know about our company, including our history, mission, and values.
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+Our website is designed to be user-friendly and easy to navigate. You can browse through our product catalog, learn about our services, and contact us for any questions or inquiries you may have. We strive to provide you with the most up-to-date and accurate information possible, but please note that some information may change over time.
 
-  =>  Template Author  : HTML Codex
+We value your feedback and suggestions to improve our website, so feel free to contact us with any comments or suggestions you may have. Your satisfaction is our top priority, and we hope you find our website informative and helpful.
 
-  =>  Author Website   : https://htmlcodex.com
+Thank you for visiting our website!
+
+Created By- Kaushal Kishor
+
+
+
