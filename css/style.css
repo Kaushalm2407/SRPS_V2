@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 :root {
-    --primary: #015FC9;
-    --secondary: #0DD3F1;
+    --primary: red;
+    --secondary: #f10d35;
     --light: #F6F7FC;
     --dark: #15233C;
 }
@@ -457,7 +457,7 @@
 }
 
 .footer .copyright {
-    padding: 25px 0;
+    padding: 15px 0;
     font-size: 15px;
     border-top: 1px solid rgba(256, 256, 256, .1);
 }
